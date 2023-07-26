@@ -49,4 +49,5 @@ Semantic colors are based on commonly associated colors with status, feedback an
 
 
 ## Color Naming Structure:
-colourGroup/subGroup/shadeGroup/colourName.ShadeNumber
+colourGroup/subGroup/shadeGroup/color-name.ShadeNumber
+e.g InteractionColors/Enabled/primary-brand.100
