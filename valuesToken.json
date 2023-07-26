@@ -250,8 +250,7 @@
     }
   },
   "fs-tokens": {
-    "value": "",
-    "type": "fontSizes"
+    "xs": { "value": "", "type": "fontSizes" }
   },
   "cr-sm": {
     "value": "16px",
