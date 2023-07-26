@@ -1,5 +1,5 @@
 {
-  "standard-values": {
+  "sp-values": {
     "0px": {
       "value": "0px",
       "type": "spacing"
@@ -141,21 +141,29 @@
       "type": "spacing"
     }
   },
-  "design-tokens": {
+  "sp-tokens": {
+    "xxs": {
+      "value": "{sp-values.2px}",
+      "type": "spacing"
+    },
     "xs": {
-      "value": "12",
+      "value": "{sp-values.8px}",
       "type": "spacing"
     },
     "sm": {
-      "value": "16",
+      "value": "{sp-values.14px}",
       "type": "spacing"
     },
     "md": {
-      "value": "24",
+      "value": "{sp-values.16px}",
       "type": "spacing"
     },
     "lg": {
-      "value": "32",
+      "value": "{sp-values.32px}",
+      "type": "spacing"
+    },
+    "2xl": {
+      "value": "{sp-values.40px}",
       "type": "spacing"
     }
   },
@@ -238,5 +246,9 @@
   "160px": {
     "value": "160px",
     "type": "fontSizes"
+  },
+  "cr-sm": {
+    "value": "16px",
+    "type": "borderRadius"
   }
 }
