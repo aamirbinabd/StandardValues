@@ -1,230 +1,227 @@
 {
-  "sp-$values": {
-    "0": {
+  "sp-values": {
+    "0px": {
       "$value": "0",
       "$type": "number"
     },
-    "1": {
+    "1px": {
       "$value": "1",
       "$type": "number"
     },
-    "2": {
+    "2px": {
       "$value": "2",
       "$type": "number"
     },
-    "4": {
+    "4px": {
       "$value": "4",
       "$type": "number"
     },
-    "6": {
+    "6px": {
       "$value": "6",
       "$type": "number"
     },
-    "8": {
+    "8px": {
       "$value": "8",
       "$type": "number"
     },
-    "10": {
+    "10px": {
       "$value": "10",
       "$type": "number"
     },
-    "12": {
+    "12px": {
       "$value": "12",
       "$type": "number"
     },
-    "14": {
+    "14px": {
       "$value": "14",
       "$type": "number"
     },
-    "16": {
+    "16px": {
       "$value": "16",
       "$type": "number"
     },
-    "20": {
+    "20px": {
       "$value": "20",
       "$type": "number"
     },
-    "24": {
+    "24px": {
       "$value": "24",
       "$type": "number"
     },
-    "28": {
+    "28px": {
       "$value": "28",
       "$type": "number"
     },
-    "32": {
+    "32px": {
       "$value": "32",
       "$type": "number"
     },
-    "36": {
+    "36px": {
       "$value": "36",
       "$type": "number"
     },
-    "40": {
+    "40px": {
       "$value": "40",
       "$type": "number"
     },
-    "44": {
+    "44px": {
       "$value": "44",
       "$type": "number"
     },
-    "48": {
+    "48px": {
       "$value": "48",
       "$type": "number"
     },
-    "56": {
+    "56px": {
       "$value": "56",
       "$type": "number"
     },
-    "64": {
+    "64px": {
       "$value": "64",
       "$type": "number"
     },
-    "80": {
+    "80px": {
       "$value": "80",
       "$type": "number"
     },
-    "96": {
+    "96px": {
       "$value": "96",
       "$type": "number"
     },
-    "112": {
+    "112px": {
       "$value": "112",
       "$type": "number"
     },
-    "128": {
+    "128px": {
       "$value": "128",
       "$type": "number"
     },
-    "144": {
+    "144px": {
       "$value": "144",
       "$type": "number"
     },
-    "160": {
+    "160px": {
       "$value": "160",
       "$type": "number"
     },
-    "176": {
+    "176px": {
       "$value": "176",
       "$type": "number"
     },
-    "192": {
+    "192px": {
       "$value": "192",
       "$type": "number"
     },
-    "208": {
+    "208px": {
       "$value": "208",
       "$type": "number"
     },
-    "224": {
+    "224px": {
       "$value": "224",
       "$type": "number"
     },
-    "240": {
+    "240px": {
       "$value": "240",
       "$type": "number"
     },
-    "256": {
+    "256px": {
       "$value": "256",
       "$type": "number"
     },
-    "288": {
+    "288px": {
       "$value": "288",
       "$type": "number"
     },
-    "320": {
+    "320px": {
       "$value": "320",
       "$type": "number"
     },
-    "384": {
+    "384px": {
       "$value": "384",
       "$type": "number"
     }
   },
-  "sp-tokens": {},
-  "fs-$values": {
-    "10": {
+
+  "fs-values": {
+    "10px": {
       "$value": "10",
       "$type": "number"
     },
-    "12": {
+    "12px": {
       "$value": "12",
       "$type": "number"
     },
-    "14": {
+    "14px": {
       "$value": "14",
       "$type": "number"
     },
-    "16": {
+    "16px": {
       "$value": "16",
       "$type": "number"
     },
-    "20": {
+    "20px": {
       "$value": "20",
       "$type": "number"
     },
-    "24": {
+    "24px": {
       "$value": "24",
       "$type": "number"
     },
-    "28": {
+    "28px": {
       "$value": "28",
       "$type": "number"
     },
-    "32": {
+    "32px": {
       "$value": "32",
       "$type": "number"
     },
-    "36": {
+    "36px": {
       "$value": "36",
       "$type": "number"
     },
-    "40": {
+    "40px": {
       "$value": "40",
       "$type": "number"
     },
-    "44": {
+    "44px": {
       "$value": "44",
       "$type": "number"
     },
-    "48": {
+    "48px": {
       "$value": "48",
       "$type": "number"
     },
-    "56": {
+    "56px": {
       "$value": "56",
       "$type": "number"
     },
-    "64": {
+    "64px": {
       "$value": "64",
       "$type": "number"
     },
-    "80": {
+    "80px": {
       "$value": "80",
       "$type": "number"
     },
-    "96": {
+    "96px": {
       "$value": "96",
       "$type": "number"
     },
-    "112": {
+    "112px": {
       "$value": "112",
       "$type": "number"
     },
-    "128": {
+    "128px": {
       "$value": "128",
       "$type": "number"
     },
-    "144": {
+    "144px": {
       "$value": "144",
       "$type": "number"
     },
-    "160": {
+    "160px": {
       "$value": "160",
       "$type": "number"
     }
-  },
-  "fs-tokens": {
-    "xs": { "$value": "", "$type": "number" }
   }
 }
